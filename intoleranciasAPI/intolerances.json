@@ -55,6 +55,155 @@
             "Molho de tomate com açúcar",
             "Barra de granola com alto teor de açúcar"
         ]
+    },
+    {
+        "intolerancias": "Vegano",
+        "restricoes": [
+            "Carne",
+            "Peixe",
+            "Frango",
+            "Ovos",
+            "Leite de vaca",
+            "Queijos de origem animal",
+            "Manteiga",
+            "Iogurte de origem animal",
+            "Mel",
+            "Gelatina",
+            "Cera de abelha",
+            "Carmim",
+            "Caseína",
+            "Lactose",
+            "Soro de leite",
+            "Colágeno",
+            "Gordura animal",
+            "Tutano de ossos",
+            "Gelatina animal",
+            "Banha animal",
+            "Mel de abelha",
+            "Cera de abelha",
+            "Lanolina",
+            "Ácido esteárico",
+            "Glicerina",
+            "Ácido láctico",
+            "Queratina",
+            "Seda",
+            "Taurina",
+            "Guanina"
+        ]
+    },
+    {
+        "intolerancias": "Vegetariano",
+        "restricoes": [
+            "Carne",
+            "Peixe",
+            "Frango",
+            "Gelatina",
+            "Banha animal",
+            "Tutano de ossos",
+            "Gelatina animal",
+            "Colágeno",
+            "Soro de leite",
+            "Carmim",
+            "Ácido esteárico",
+            "Ácido láctico",
+            "Queratina",
+            "Seda",
+            "Taurina",
+            "Guanina"
+        ]
+    },
+    {
+        "intolerancia": "Nozes",
+        
+        "restricoes":
+        [
+            "Nozes",
+            "amêndoas",
+            "castanhas",
+            "nozes-pecã",
+            "pistaches",
+            "Manteiga de amendoim",
+            "Manteiga de amêndoas",
+            "Noz-moscada",
+            "Nutella",
+            "Molhos de amendoim",
+            "Pratos asiáticos com nozes (por exemplo, molhos agridoces)",
+            "Pratos indianos, africanos ou do Oriente Médio que contenham nozes",
+            "Molhos e condimentos que contenham nozes",
+            "Alimentos processados que contenham nozes"
+        ]
+    },
+    {
+        "intolerancias": "Glutem",
+        "restricoes":
+        [
+            "trigo",
+            "cevada",
+            "farinha de trigo",
+            "farelo de trigo",
+            "farinha de cevada",
+            "farinha de centeio",
+            "Cerveja",
+            "Molhos de soja",
+            "Malte",
+            "Amido de Trigo",
+            "Maltodextrina",
+            "Farinha de Espelta",
+            "Farinha de Kamut",
+            "Farinha de Bulgur",
+            "Triticale",
+            "Farinha de aveia não certificada como sem glúten",
+            "Semolina",
+            "Couscous",
+            "Amido de Centeio",
+            "Semolina de Milho",
+            "Tapioca Modified Starch (Amido Modificado de Tapioca)",
+            "Extrato de Malte de Milho (Corn Syrup)",
+            "Mistura de Emulsificantes e Estabilizantes"
+        ]
+    },
+    {
+        "intolerancias": "Cafeína",
+        "restricoes": [
+            "Café",
+            "Chá preto",
+            "Chá verde",
+            "Chá branco",
+            "Chá oolong",
+            "Refrigerantes com cafeína",
+            "Bebidas energéticas",
+            "Suplementos de cafeína",
+            "Chocolate (contendo cafeína)",
+            "Alguns medicamentos (contendo cafeína)",
+            "Chocolates e sobremesas com café",
+            "Cerveja com cafeína",
+            "Alguns tipos de chás de ervas (verifique o conteúdo de cafeína)",
+            "Alimentos processados ​​que contenham extrato de café ou café em pó"
+        ]
+    },
+    {
+        "intolerancias": "Histamina",
+        "restricoes": [
+            "Queijos envelhecidos",
+            "Vinho tinto",
+            "Cerveja",
+            "Produtos de soja fermentados",
+            "Embutidos e carnes processadas",
+            "Peixes enlatados",
+            "Alimentos em conserva",
+            "Tomates",
+            "Espinafre",
+            "Berinjela",
+            "Alimentos envelhecidos ou estragados",
+            "Bebidas alcoólicas",
+            "Vinagre",
+            "Alimentos contendo vinagre",
+            "Alimentos ricos em tiramina",
+            "Chocolate",
+            "Frutas cítricas",
+            "Morangos",
+            "Leite e produtos lácteos envelhecidos",
+            "Alimentos e bebidas contendo corantes e conservantes"
+        ]
     }
-
 ]
